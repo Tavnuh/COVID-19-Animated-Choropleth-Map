@@ -6,8 +6,8 @@ This repo contains a short jupyter notebook and CSV for visualising the spread o
 ## Creator
 
 * Michael Taverner
-https://github.com/Tavnuh
-https://www.linkedin.com/in/michael-t-20b27797/
+* https://github.com/Tavnuh
+* https://www.linkedin.com/in/michael-t-20b27797/
 
 The code was built on top of/altered from code provided by Terence Shin in the Medium article: How To Visualize the Coronavirus Pandemic with Choropleth Maps
 https://towardsdatascience.com/visualizing-the-coronavirus-pandemic-with-choropleth-maps-7f30fccaecf5

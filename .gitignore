@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+COVID-19-Static-Choropleth.ipynb
+CSV/COVID19_line_list_data.csv
+CSV/COVID19_open_line_list.csv
+CSV/time_series_covid_19_confirmed.csv
+CSV/time_series_covid_19_confirmed_US.csv
+CSV/time_series_covid_19_deaths.csv
+CSV/time_series_covid_19_deaths_US.csv
+CSV/time_series_covid_19_recovered.csv
+Choropleth Animation.mp4
